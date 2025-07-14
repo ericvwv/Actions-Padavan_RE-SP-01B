@@ -8,7 +8,7 @@ env:
   REPO_URL: https://github.com/MeIsReallyBa/padavan-4.4
   REPO_BRANCH: main
   UPLOAD_RELEASE: true
-  TNAME: JD-Cloud RE-SP-01B
+  TNAME: JDCloud_1
   CONFIG_FILE: RE-SP-01B.config
   DIY_SH: diy.sh
 
