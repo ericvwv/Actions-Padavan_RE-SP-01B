@@ -8,8 +8,8 @@ env:
   REPO_URL: https://github.com/MeIsReallyBa/padavan-4.4
   REPO_BRANCH: main
   UPLOAD_RELEASE: true
-  TNAME: RM2100
-  CONFIG_FILE: RM2100.config
+  TNAME: JD-Cloud RE-SP-01B
+  CONFIG_FILE: RE-SP-01B.config
   DIY_SH: diy.sh
 
 jobs:
