@@ -56,7 +56,7 @@ jobs:
       run: |
         cd padavan/trunk
         cp -f configs/templates/$TNAME.config .config
-#        fakeroot ./build_firmware_modify $TNAME 0 
+        fakeroot ./build_firmware_modify $TNAME 0 
         echo "status=success" >> $GITHUB_OUTPUT
         echo "FILE_DATE=$(date +"%Y%m%d%H%M")" >> $GITHUB_ENV
     - name: Upload firmware directory
